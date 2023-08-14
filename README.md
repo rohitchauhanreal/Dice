@@ -1,6 +1,6 @@
 # dice_game
 
-A new Flutter project.
+A simple app with two Dice components which provide random values every time.
 
 ## Getting Started
 
